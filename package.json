@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-omni-pulse-scanner-ai-mdn",
+  "version": "1.0.0",
+  "description": "Serverless compute platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "omni-pulse-scanner-ai-mdn"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-omni-pulse-scanner-ai-mdn.git"
+  }
+}
